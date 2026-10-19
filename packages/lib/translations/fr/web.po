@@ -6793,6 +6793,10 @@ msgstr "Je dois recevoir une copie de ce document"
 msgid "I am the owner of this document"
 msgstr "Je suis le propriétaire de ce document"
 
+#: apps/remix/app/components/general/document-signing/document-signing-reject-dialog.tsx
+msgid "I reject this document"
+msgstr "Je refuse cette offre"
+
 #: apps/remix/app/routes/_unauthenticated+/o.$orgUrl.signin.tsx
 msgid "I understand that I am providing my credentials to a 3rd party service configured by this organisation"
 msgstr "Je comprends que je fournis mes identifiants à un service tiers configuré par cette organisation"
@@ -9131,6 +9135,10 @@ msgstr "Veuillez ne pas fermer cet onglet. Le fournisseur de signature est en tr
 msgid "Please enter a number"
 msgstr "Veuillez entrer un nombre"
 
+#: apps/remix/app/components/general/document-signing/document-signing-reject-dialog.tsx
+msgid "Please enter a valid email address"
+msgstr "Veuillez entrer une adresse e-mail valide"
+
 #: apps/remix/app/components/dialogs/sign-field-number-dialog.tsx
 msgid "Please enter a valid number"
 msgstr "Veuillez entrer un numéro valide"
@@ -9831,6 +9839,10 @@ msgstr "Rejet Confirmé"
 #: packages/email/template-components/template-document-rejection-confirmed.tsx
 msgid "Rejection reason: {reason}"
 msgstr "Motif du rejet : {reason}"
+
+#: apps/remix/app/components/general/document-signing/document-signing-reject-dialog.tsx
+msgid "Rejection type"
+msgstr "Type de refus"
 
 #: apps/remix/app/components/general/envelope-editor/recipient-step-card.tsx
 msgid "Release to group"
@@ -12939,6 +12951,10 @@ msgstr "Voici les portées requises que vous devez définir dans les paramètres
 #: apps/remix/app/routes/_authenticated+/o.$orgUrl.settings.sso.tsx
 msgid "This is the URL which users will use to sign in to your organisation."
 msgstr "Ceci est l'URL que les utilisateurs utiliseront pour se connecter à votre organisation."
+
+#: apps/remix/app/components/general/document-signing/document-signing-reject-dialog.tsx
+msgid "This isn't me"
+msgstr "Ce n'est pas moi qui dois signer"
 
 #: apps/remix/app/components/dialogs/envelope-item-delete-dialog.tsx
 msgid "This item cannot be deleted"

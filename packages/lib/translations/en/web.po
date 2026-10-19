@@ -6788,6 +6788,10 @@ msgstr "I am required to receive a copy of this document"
 msgid "I am the owner of this document"
 msgstr "I am the owner of this document"
 
+#: apps/remix/app/components/general/document-signing/document-signing-reject-dialog.tsx
+msgid "I reject this document"
+msgstr "I reject this document"
+
 #: apps/remix/app/routes/_unauthenticated+/o.$orgUrl.signin.tsx
 msgid "I understand that I am providing my credentials to a 3rd party service configured by this organisation"
 msgstr "I understand that I am providing my credentials to a 3rd party service configured by this organization"
@@ -9126,6 +9130,10 @@ msgstr "Please don't close this tab. The signing provider is finalizing your sig
 msgid "Please enter a number"
 msgstr "Please enter a number"
 
+#: apps/remix/app/components/general/document-signing/document-signing-reject-dialog.tsx
+msgid "Please enter a valid email address"
+msgstr "Please enter a valid email address"
+
 #: apps/remix/app/components/dialogs/sign-field-number-dialog.tsx
 msgid "Please enter a valid number"
 msgstr "Please enter a valid number"
@@ -9826,6 +9834,10 @@ msgstr "Rejection Confirmed"
 #: packages/email/template-components/template-document-rejection-confirmed.tsx
 msgid "Rejection reason: {reason}"
 msgstr "Rejection reason: {reason}"
+
+#: apps/remix/app/components/general/document-signing/document-signing-reject-dialog.tsx
+msgid "Rejection type"
+msgstr "Rejection type"
 
 #: apps/remix/app/components/general/envelope-editor/recipient-step-card.tsx
 msgid "Release to group"
@@ -12934,6 +12946,10 @@ msgstr "This is the required scopes you must set in your provider's settings"
 #: apps/remix/app/routes/_authenticated+/o.$orgUrl.settings.sso.tsx
 msgid "This is the URL which users will use to sign in to your organisation."
 msgstr "This is the URL which users will use to sign in to your organization."
+
+#: apps/remix/app/components/general/document-signing/document-signing-reject-dialog.tsx
+msgid "This isn't me"
+msgstr "This isn't me"
 
 #: apps/remix/app/components/dialogs/envelope-item-delete-dialog.tsx
 msgid "This item cannot be deleted"
